@@ -122,7 +122,7 @@ export const socials = [
   {
     label: "Docs",
     icon: "DocsIcon",
-    href: "https://docs.dojofarm.finance",
+    href: "https://docs.kunai.dojofarm.finance/",
   },
   {
     label: "Medium",
